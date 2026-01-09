@@ -36,9 +36,9 @@ email_push:
 #     title:            你的博客标题，如果启用了推送，用于生成邮件主题
 rss_subscribe:
   enable: true
-  github_username: mcyzsx
+  github_username: zsxcoder
   github_repo: Friend-Circle-Lite
-  your_blog_url: https://boke.zsx815.top/
+  your_blog_url: https://b.zsxcoder.top/
   email_template: "./push_templates/default.html"
   website_info:
     title: "ZSXの小站"
